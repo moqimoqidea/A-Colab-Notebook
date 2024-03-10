@@ -1,0 +1,14 @@
+# mac
+*.DS_Store
+
+# editor
+.idea
+*.iml
+.vscode
+
+# pyenv
+.python-version
+
+# jenv
+.java-version
+
