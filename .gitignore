@@ -12,3 +12,5 @@
 # jenv
 .java-version
 
+# images
+images/*
